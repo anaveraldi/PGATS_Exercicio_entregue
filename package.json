@@ -1,0 +1,14 @@
+{
+  "name": "pgats_exercicio",
+  "version": "1.0.0",
+  "description": "Exercicio de conclusao da materia \"Programacao para Automacao de Testes\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js --timeout 60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
